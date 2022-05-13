@@ -1,7 +1,7 @@
 # Yandex-Data-Analysis
 Курс обучения (6 мес) "Аналитик данных (Data Analyst)" by Yandex.ru (https://praktikum.yandex.ru/data-analyst/)
 <hr>
-1. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BE_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5_%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" target="blank" rel="noreferrer">Исследование объявлений о продаже квартир</a>
+1. <a href="https://github.com/Digidon199/Yandex-Data-Analysis/blob/main/исследование_объявлений_о_продаже_квартир.ipynb" target="blank" rel="noreferrer">Исследование объявлений о продаже квартир</a>
 
 **Задача:** провести анализ рынка недвижимости Санкт-Петербурга, установить параметры, которые влияют на стоимость квартир. Результаты исследования будут использованы при разработке автоматизированной системы мониторинга аномалий и мошеннической деятельности.
 <br>
