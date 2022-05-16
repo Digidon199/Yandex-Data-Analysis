@@ -66,7 +66,7 @@
 </ul>
 <hr>
 
-5. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%B0%D1%84%D0%B8%D1%88%D0%B8.ipynb" target="blank" rel="noreferrer">Аналитика в Яндекс.Афише</a>
+5. <a href="https://github.com/Digidon199/Yandex-Data-Analysis/blob/main/аналитика_для_яндекс_афиши.ipynb" target="blank" rel="noreferrer">Аналитика в Яндекс.Афише</a>
 
 **Задача:** провести анализ пользовательской активности, изучить unit-экономику, изучить расходы на маркетинг и окупаемость расходов (ROI). Сформулировать рекомендации по использованию каналов привлечения пользователей и планированию маркетинговых бюджетов.
 <br>
