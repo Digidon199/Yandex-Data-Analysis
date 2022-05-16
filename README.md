@@ -51,7 +51,7 @@
 </ul>
 <hr>
 
-4. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb" target="blank" rel="noreferrer">Аналитика в авиакомпании</a>
+4. <a href="https://github.com/Digidon199/Yandex-Data-Analysis/blob/main/аналитика_авиакомпании.ipynb" target="blank" rel="noreferrer">Аналитика в авиакомпании</a>
 
 **Задача:** для авиакомпании выполняющей внутренние пассажирские авиаперевозки выполнить анализ выборки данных по полетам совершенным за период. Рассчитать требуемые метрики, выявить наиболее популярные маршруты и модели самолетов.
 <br>
