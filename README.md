@@ -152,7 +152,7 @@
 <br>
 **Результаты исследования:** написаны sql запросы для получения выборок согласно условиям задачи.
 <hr>
-11. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_ab_%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb" target="blank" rel="noreferrer">Финальный проект. A/B тест. Проверка результатов теста</a>
+11. <a href="https://github.com/Digidon199/Yandex-Data-Analysis/blob/main/проверка_ab_теста.ipynb" target="blank" rel="noreferrer">Финальный проект. A/B тест. Проверка результатов теста</a>
 
 **Задача:** Оценить корректность проведения теста включая время проведения теста и аудиторию теста. Провести анализ результатов теста.
 <br>
