@@ -146,7 +146,7 @@
   <li>Сформулированы выводы и рекомендации по результатам анализа</li>
 </ul>
 <hr>
-10. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0_%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B5.ipynb" target="blank" rel="noreferrer">SQL. Анализ базы данных сервиса для чтения книг по подписке</a>
+10. <a href="https://github.com/Digidon199/Yandex-Data-Analysis/blob/main/анализ_сервиса_чтения_книг_по_подписке.ipynb" target="blank" rel="noreferrer">SQL. Анализ базы данных сервиса для чтения книг по подписке</a>
 
 **Задача:** Проанализировать базу данных сервиса для чтения книг по подписке - информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг.
 <br>
