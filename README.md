@@ -97,7 +97,7 @@
   <li>Сформулированы выводы по результатам A/B теста</li>
 </ul>
 <hr>
-7. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA_%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0_%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B.ipynb" target="blank" rel="noreferrer">Рынок заведений общественного питания Москвы</a>
+7. <a href="https://github.com/Digidon199/Yandex-Data-Analysis/blob/main/аналитика_рынок_общепита_москвы.ipynb" target="blank" rel="noreferrer">Рынок заведений общественного питания Москвы</a>
 
 **Задача:** исследовать рынок общественного питания Москвы. Определить локации в городе с наибольшим/наименьшим числом объектов питания. Сформулировать рекомендации по формату и выбору места (района) в городе для открытия нового кафе.  
 <br>
